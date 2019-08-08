@@ -1,0 +1,10 @@
+Potrebni paketi za izvajanje skripte webpage1.py
+
+dash, verzija 0.42.0
+dash_core_components, verzija 0.47.0
+dash_html_components, verzija 0.16.0
+cv2
+base64
+numpy, verzija 1.14.0
+time
+
