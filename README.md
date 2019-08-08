@@ -19,3 +19,7 @@ Na tem repositoriju se nahajajo potrebne datoteke za delovanje spletne strani, k
 2.2 Spletno stran odpremo tako, da povezavo, ki jo vrne skripta, kopiramo v poljubni brskalnik. 
 
 2.3 Zagon spletne strani je zaenkrat mogoč zgolj na operacijskem sistemu Windows.
+
+Model for inference is available at: https://drive.google.com/file/d/12p13UlKJC_GuVtg9_ezjhyiIZpLCN7KL/view?usp=sharing
+
+File must be placed in folder: \models\model-r100-arcface-ms1m-refine-v2\model-r100-ii
